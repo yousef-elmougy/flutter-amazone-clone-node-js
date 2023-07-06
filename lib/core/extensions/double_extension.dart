@@ -1,0 +1,5 @@
+
+
+extension Space on double {
+
+}
